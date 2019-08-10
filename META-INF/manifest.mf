@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GXTDqeUgOGQ5/jCauACFig==
+SHA1-Digest: ulqYF1Q2GE0xbzzIqy9wQGTZ3jU=
+SHA256-Digest: h+a2IG90HnQMDjSZxAxuLGbkvESzhqi9LCi+e+J2HEQ=
+
+Name: background-scripts/background-doubleclicksearch.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: JieqcWstAOa81m6pxdSqOA==
+SHA1-Digest: jlMuKxD0aP9WAMrlW/1t/RK+00U=
+SHA256-Digest: RbLpgmxBgCf3p+Ix7I30VYQu1B/0PUHEF/j2+KgL8UM=
+
+Name: content-scripts/content-doubleclicksearch.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: LrgZ/k0DlLPBppxGQRf5bg==
+SHA1-Digest: sImXIIcsmE5wrgte3x27nAKQxp8=
+SHA256-Digest: DHkua2N+yjc+4uhfjAEcZ6Ng4jayBtEpovQlYhwdDRM=
+
+Name: icons/icon-doubleclicksearch-64.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ckyNplpL9gdbyjdk9K5+Ww==
+SHA1-Digest: 448gfDbdvC8yee2yqwmS/iBSc14=
+SHA256-Digest: 13nyYvD1Ffp6h7yholNbgIYFiepo4442OSz0g23aRrQ=
+
