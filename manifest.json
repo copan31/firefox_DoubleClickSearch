@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "DoubleClickSearch",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "kppk05",
 
   "description": "Search selected text by double click.",

@@ -1,6 +1,6 @@
 (function () {
   var doubleClick = false;
-  document.addEventListener("click", function(event){
+  document.addEventListener("mouseup", function(event){
 
     // trap only right double click
   	if( doubleClick ) {
