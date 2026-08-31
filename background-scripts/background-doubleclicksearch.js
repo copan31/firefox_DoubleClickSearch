@@ -10,10 +10,10 @@
 
   browser.runtime.onMessage.addListener((message) => {
     // search on new tab
-    var creating = browser.tabs.create({
-      url: "https://www.google.com/search?q=" + message.text
+    browser.search.query({
+      text: message.text,
+      disposition: "NEW_TAB",
     });
-    creating.then(onCreated, onError);
   });
 
 })();
