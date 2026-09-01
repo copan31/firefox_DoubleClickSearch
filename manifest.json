@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "DoubleClickSearch",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "author": "kppk05",
 
   "description": "Search selected text by double click.",
@@ -23,6 +23,7 @@
     ]
   },
   "permissions": [
-    "tabs"
+    "tabs",
+    "search"
   ]
 }
